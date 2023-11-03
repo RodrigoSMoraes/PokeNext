@@ -5,6 +5,8 @@ Pokenext é uma Pokédex desenvolvida utilizando o framework Next.js e aproveita
 
 Pokedex desenvolvida usando o framework Next.js durante o [curso do Matheus Battisti](https://www.youtube.com/playlist?list=PLnDvRpP8BnezfJcfiClWskFOLODeqI_Ft) 
 
+Projeto hospedado pela [Vercel](https://vercel.com/home) para acessar  [CLIQUE AQUI](https://poke-next-3tcn7rfr6-rodrigos-projects-db8540d4.vercel.app/)
+
 ## Recursos Destacados
 
 - **Gerenciamento Assíncrono de Estados:** Pokenext implementa a estratégia "stale-while-revalidate" para garantir uma experiência de usuário suave ao carregar dados de forma assíncrona.
